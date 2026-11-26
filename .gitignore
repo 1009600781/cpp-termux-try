@@ -1,0 +1,18 @@
+# 编译产物
+*.o
+*.obj
+*.exe
+*.out
+a.out
+*.gch
+*.pch
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
